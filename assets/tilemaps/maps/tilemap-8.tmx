@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="144" height="24" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="terrain" tilewidth="32" tileheight="32">
+  <image source="../tiles/terrain.png" width="128" height="32"/>
+  <terraintypes>
+   <terrain name="Left road" tile="0"/>
+   <terrain name="Center road" tile="1"/>
+   <terrain name="Right road" tile="2"/>
+   <terrain name="Ground road" tile="3"/>
+  </terraintypes>
+ </tileset>
+ <layer name="Platforms" width="144" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzt2UEKwCAMBEBt/f+bfUJDJUkLM7BHifEUyRgAAEDUlZj7ofb8aa2v3aezdwAAIK5r9n9zruqfkV2jsvfsNwMAAOKy9iLVexn7r57eAQCAuCVykA2NBgTO
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,60 @@
+{"frames": {
+
+"end-car.png":
+{
+	"frame": {"x":1,"y":1,"w":458,"h":667},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":458,"h":667},
+	"sourceSize": {"w":458,"h":667}
+},
+"end-enemy-1.png":
+{
+	"frame": {"x":877,"y":1,"w":331,"h":308},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":331,"h":308},
+	"sourceSize": {"w":331,"h":308}
+},
+"end-enemy-2.png":
+{
+	"frame": {"x":1210,"y":1,"w":241,"h":248},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":248},
+	"sourceSize": {"w":241,"h":248}
+},
+"end-enemy-3.png":
+{
+	"frame": {"x":877,"y":311,"w":271,"h":238},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":271,"h":238},
+	"sourceSize": {"w":271,"h":238}
+},
+"end-enemy-bg.png":
+{
+	"frame": {"x":461,"y":1,"w":414,"h":533},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":533},
+	"sourceSize": {"w":414,"h":533}
+},
+"end-msg.png":
+{
+	"frame": {"x":461,"y":551,"w":765,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":765,"h":52},
+	"sourceSize": {"w":800,"h":52}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas-end.png",
+	"format": "RGBA8888",
+	"size": {"w":1452,"h":669},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:642758c4f59847f0dbfc1118fac5700a:3c0de14a6a2bf3db3c66a823fa8e0d13:61fbd8d838e3e4790974587c76f90310$"
+}
+}
